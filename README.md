@@ -244,8 +244,8 @@ Each component has a clear upgrade path without requiring architectural changes:
 
 | Component | Current | Upgrade Path |
 |---|---|---|
-| LLM | Configurable via `llm.py` | Swap to more capable model |
-| Search ranking | BM25 reranker |  |
+| LLM | Currently Cohere` | Swap to more capable model |
+| Search ranking | BM25 reranker | Implement Reranker for searches from serper |
 | Image generation | Leonardo AI | Better IMage Prompts|
 | Approval state | Redis polling |  |
 | Posting targets | Discord only | Additional social media APIs like twitter |
