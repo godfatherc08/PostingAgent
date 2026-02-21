@@ -229,6 +229,15 @@ python agent.py
 
 ---
 
+## Slack
+
+<img width="1920" height="1080" alt="postingagentslack" src="https://github.com/user-attachments/assets/250c8c87-3161-4fa9-8db4-a420ccaac0fe" />
+
+## Discord
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97fbe819-4f84-4c3e-89c2-693a4ed62496" />
+
+
 ## Scalability Notes
 
 Each component has a clear upgrade path without requiring architectural changes:
